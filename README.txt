@@ -1,9 +1,9 @@
-Autorzy: 
+Authors: 
 - Michał Jurewicz
 - Marcin Gawryluk
 
-Temat projektu:
-- Wypożyczalnia pojazdów
+Subject:
+- Car Renting
 
-Projekt został wykonany w środowisku:
+The project was made in the environment:
 - IntelliJ IDEA Community Edition 2022.3.2
